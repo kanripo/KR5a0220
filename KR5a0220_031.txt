@@ -1,14 +1,12 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:41:03.544827
+# -*- mode: mandoku-view -*-
 #+TITLE: 靈寶無量度人上經大法
-#+PROPERTY: DZID  DZ0219
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，3—613 七十二卷 洞真部方法類
+#+DATE: 2015-08-28 23:42:24
+#+PROPERTY:  LASTPB <PB KR5a0220_SJB_072-031057a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
-#+PROPERTY: LASTPB <pb:KR5a0220_SJB_031-030778a>
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: LASTPB  <md:KR5a0220_HFL_030-003a>
 #+PROPERTY: JUAN 31
-#+PROPERTY: ID KR5a0220
-<pb:KR5a0220_HFL_031-001a>¶
+<md:KR5a0220_HFL_031-001a>¶<pb:KR5a0220_SJB_031-030778b><img:image/030778b_1.bmp><img:image/030778b_2.bmp><img:image/030778b_3.bmp><img:image/030778b_4.bmp><img:image/030778b_5.bmp><img:image/030778b_6.bmp><img:image/030778b_7.bmp><img:image/030778b_8.bmp><img:image/030778b_9.bmp><img:image/030778b_10.bmp><img:image/030778b_11.bmp><img:image/030778b_12.bmp><img:image/030778b_13.bmp><img:image/030778b_14.bmp><img:image/030778b_15.bmp><img:image/030778b_16.bmp><img:image/030778b_17.bmp><img:image/030778b_18.bmp><img:image/030778b_19.bmp><img:image/030778b_20.bmp><img:image/030778b_21.bmp><img:image/030778b_22.bmp><img:image/030778b_23.bmp><img:image/030778b_24.bmp><img:image/030778b_25.bmp>
 靈寳无量度人上經大法卷之三十一麗一¶
 　欀度施用品¶
 　　　赤書玉文¶
@@ -18,21 +16,21 @@
 上制天機中檢五靈下策地祇嘯命河源運¶
 役隂陽召神使仙此至眞之文妙應自然致¶
 天髙澄使地固安五嶽保鎭萬品存焉¶
-　　安鎭星度天災玉文¶
-<pb:KR5a0220_HFL_031-001b>¶
+　　安鎭星度天災玉文¶<md:KR5a0220_HFL_031-001b>¶
+
 　　保安欀災安鎭玉文¶
 　　受法攝伏鬼神玉文¶
 　　止洪水度水災玉文¶
 　　安鎭星度天災玉文¶
-　　　東方¶
-¶
+　　　東方¶¶
+
 　　(嵗星輔肝角)¶
 　　(亢鎭眞氐房)¶
 　　(心尾四景回)¶
 　　(旋箕土七辰)¶
-　　(正斗明輪承)¶
-<pb:KR5a0220_HFL_031-002a>¶
-　　　(炁輔非掃除)¶
+　　(正斗明輪承)¶<md:KR5a0220_HFL_031-002a>¶
+<pb:KR5a0220_SJB_031-030778c>
+<img:image/030778c_1.bmp><img:image/030778c_2.bmp><img:image/030778c_3.bmp><img:image/030778c_4.bmp><img:image/030778c_5.bmp><img:image/030778c_6.bmp><img:image/030778c_7.bmp><img:image/030778c_8.bmp><img:image/030778c_9.bmp><img:image/030778c_10.bmp><img:image/030778c_11.bmp><img:image/030778c_12.bmp><img:image/030778c_13.bmp><img:image/030778c_14.bmp><img:image/030778c_15.bmp><img:image/030778c_16.bmp><img:image/030778c_17.bmp><img:image/030778c_18.bmp><img:image/030778c_19.bmp><img:image/030778c_20.bmp><img:image/030778c_21.bmp><img:image/030778c_22.bmp><img:image/030778c_23.bmp><img:image/030778c_24.bmp><img:image/030778c_25.bmp><img:image/030778c_26.bmp><img:image/030778c_27.bmp><img:image/030778c_28.bmp><img:image/030778c_29.bmp><img:image/030778c_30.bmp><img:image/030778c_31.bmp><img:image/030778c_32.bmp><img:image/030778c_33.bmp><img:image/030778c_34.bmp><img:image/030778c_35.bmp><img:image/030778c_36.bmp><img:image/030778c_37.bmp><img:image/030778c_38.bmp><img:image/030778c_39.bmp><img:image/030778c_40.bmp><img:image/030778c_41.bmp><img:image/030778c_42.bmp><img:image/030778c_43.bmp><img:image/030778c_44.bmp><img:image/030778c_45.bmp><img:image/030778c_46.bmp><img:image/030778c_47.bmp><img:image/030778c_48.bmp><img:image/030778c_49.bmp><img:image/030778c_50.bmp><img:image/030778c_51.bmp><img:image/030778c_52.bmp><img:image/030778c_53.bmp><img:image/030778c_54.bmp><img:image/030778c_55.bmp><img:image/030778c_56.bmp><img:image/030778c_57.bmp><img:image/030778c_58.bmp><img:image/030778c_59.bmp><img:image/030778c_60.bmp><img:image/030778c_61.bmp><img:image/030778c_62.bmp><img:image/030778c_63.bmp><img:image/030778c_64.bmp><img:image/030778c_65.bmp><img:image/030778c_66.bmp><img:image/030778c_67.bmp><img:image/030778c_68.bmp><img:image/030778c_69.bmp><img:image/030778c_70.bmp><img:image/030778c_71.bmp><img:image/030778c_72.bmp><img:image/030778c_73.bmp><img:image/030778c_74.bmp><img:image/030778c_75.bmp><img:image/030778c_76.bmp><img:image/030778c_77.bmp>　　　(炁輔非掃除)¶
 　　　(災羣)¶
 　　　南方¶
 　　　(熒惑輔心井)¶
@@ -41,21 +39,21 @@
 　　　(郷軫總七宿)¶
 　　　(廻轉天常召)¶
 　　　(運促會正道)¶
-　　　(驆行赤文命)¶
-<pb:KR5a0220_HFL_031-002b>¶
+　　　(驆行赤文命)¶<md:KR5a0220_HFL_031-002b>¶
+
 　　　靈(本行經无赤/文命靈四字)¶
 　　　西方¶
 　　　(太白檢肺奎)¶
 　　　(妻保魂胃昴)¶
-　　　(畢觜主制七)¶
-¶
+　　　(畢觜主制七)¶¶
+
 　　　(關參總斗魁)¶
 　　　(受符北元)¶
 　　　北方¶
 　　　(北辰輔賢斗)¶
-　　　(牛衛扉女虚)¶
-<pb:KR5a0220_HFL_031-003a>¶
-　　　(危室豁落四)¶
+　　　(牛衛扉女虚)¶<md:KR5a0220_HFL_031-003a>¶
+<pb:KR5a0220_SJB_031-030779a>
+<img:image/030779a_1.bmp><img:image/030779a_2.bmp><img:image/030779a_3.bmp><img:image/030779a_4.bmp><img:image/030779a_5.bmp><img:image/030779a_6.bmp><img:image/030779a_7.bmp><img:image/030779a_8.bmp><img:image/030779a_9.bmp><img:image/030779a_10.bmp><img:image/030779a_11.bmp><img:image/030779a_12.bmp><img:image/030779a_13.bmp><img:image/030779a_14.bmp><img:image/030779a_15.bmp><img:image/030779a_16.bmp><img:image/030779a_17.bmp><img:image/030779a_18.bmp><img:image/030779a_19.bmp><img:image/030779a_20.bmp><img:image/030779a_21.bmp><img:image/030779a_22.bmp><img:image/030779a_23.bmp><img:image/030779a_24.bmp><img:image/030779a_25.bmp><img:image/030779a_26.bmp><img:image/030779a_27.bmp><img:image/030779a_28.bmp><img:image/030779a_29.bmp><img:image/030779a_30.bmp><img:image/030779a_31.bmp><img:image/030779a_32.bmp><img:image/030779a_33.bmp><img:image/030779a_34.bmp><img:image/030779a_35.bmp><img:image/030779a_36.bmp><img:image/030779a_37.bmp><img:image/030779a_38.bmp><img:image/030779a_39.bmp><img:image/030779a_40.bmp><img:image/030779a_41.bmp><img:image/030779a_42.bmp><img:image/030779a_43.bmp><img:image/030779a_44.bmp><img:image/030779a_45.bmp><img:image/030779a_46.bmp><img:image/030779a_47.bmp><img:image/030779a_48.bmp><img:image/030779a_49.bmp><img:image/030779a_50.bmp><img:image/030779a_51.bmp><img:image/030779a_52.bmp><img:image/030779a_53.bmp><img:image/030779a_54.bmp><img:image/030779a_55.bmp><img:image/030779a_56.bmp><img:image/030779a_57.bmp><img:image/030779a_58.bmp><img:image/030779a_59.bmp><img:image/030779a_60.bmp><img:image/030779a_61.bmp><img:image/030779a_62.bmp>　　　(危室豁落四)¶
 　　　(開壁總七星)¶
 　　　(執凶斛非却)¶
 　　　(災掃穢明道)¶
@@ -64,20 +62,20 @@
 　　　(鎭星輔脾廻)¶
 　　　(度北元魁𩲃)¶
 　　　(主非裁邪斬)¶
-　　　(姦𩵄䰢魓𩳐)¶
-<pb:KR5a0220_HFL_031-003b>¶
+　　　(姦𩵄䰢魓𩳐)¶<md:KR5a0220_HFL_031-003b>¶
+
 　　　(攝穢除氛魒)¶
 　　　(正玄斗明度)¶
 　　　(天關九天符)¶
-　　　(命金馬驛傳)¶
-¶
+　　　(命金馬驛傳)¶¶
+
 　右東西南北四方並青紙朱書中央黄紙¶
 　並隨方色石刻之亦得凡諸天星宿各有¶
 　分度至於徑道錯越更相侵犯或有異星¶
 　見於方境皆由天炁運度否激所陳災有¶
 　所妨出其分國故以天光轉照玄吿不祥¶
-　故元始埀文和天安地解災却患安國寜¶
-<pb:KR5a0220_HFL_031-004a>¶
+　故元始埀文和天安地解災却患安國寜¶<md:KR5a0220_HFL_031-004a>¶
+<pb:KR5a0220_SJB_031-030779b>
 　民至士精心依法修行災見之日書眞文¶
 　如法露中庭向方靣叩齒十二通散髪仰¶
 　祝曰¶
@@ -87,8 +85,8 @@
 夫人皇妃字曰育嬰總御玄關廻轉諸天¶
 今有客災玄吿不祥謹以眞文赤書上呈¶
 散髪謝愆披露丹誠惟垂玄鑒廻復天經¶
-炁不横越災不横生焚燒靈文散煙玉庭¶
-<pb:KR5a0220_HFL_031-004b>¶
+炁不横越災不横生焚燒靈文散煙玉庭¶<md:KR5a0220_HFL_031-004b>¶
+
 上景監明普告萬靈炁消三關災滅九溟¶
 隂陽調和國土太平謹以金龍風馳驛傳¶
 　呪畢露眞文於中庭各按方所以金龍鎭¶
@@ -98,21 +96,20 @@
 　諸天假災東方可九燈亦可九十燈九百¶
 　燈用金龍一條青繒九十尺九日九夜災¶
 　在南方則然三燈亦可三十燈三百燈絳¶
-　繒三十尺三日三夜災在中央則然十二¶
-<pb:KR5a0220_HFL_031-005a>¶
-　燈亦可百二十燈千二百燈黄繒百二十¶
+　繒三十尺三日三夜災在中央則然十二¶<md:KR5a0220_HFL_031-005a>¶
+<pb:KR5a0220_SJB_031-030779c>
+<img:image/030779c_1.bmp><img:image/030779c_2.bmp><img:image/030779c_3.bmp><img:image/030779c_4.bmp><img:image/030779c_5.bmp><img:image/030779c_6.bmp><img:image/030779c_7.bmp><img:image/030779c_8.bmp><img:image/030779c_9.bmp><img:image/030779c_10.bmp><img:image/030779c_11.bmp><img:image/030779c_12.bmp><img:image/030779c_13.bmp><img:image/030779c_14.bmp><img:image/030779c_15.bmp><img:image/030779c_16.bmp><img:image/030779c_17.bmp><img:image/030779c_18.bmp><img:image/030779c_19.bmp><img:image/030779c_20.bmp><img:image/030779c_21.bmp><img:image/030779c_22.bmp><img:image/030779c_23.bmp><img:image/030779c_24.bmp><img:image/030779c_25.bmp><img:image/030779c_26.bmp><img:image/030779c_27.bmp><img:image/030779c_28.bmp><img:image/030779c_29.bmp><img:image/030779c_30.bmp><img:image/030779c_31.bmp><img:image/030779c_32.bmp><img:image/030779c_33.bmp><img:image/030779c_34.bmp><img:image/030779c_35.bmp><img:image/030779c_36.bmp><img:image/030779c_37.bmp><img:image/030779c_38.bmp><img:image/030779c_39.bmp><img:image/030779c_40.bmp><img:image/030779c_41.bmp><img:image/030779c_42.bmp><img:image/030779c_43.bmp><img:image/030779c_44.bmp><img:image/030779c_45.bmp><img:image/030779c_46.bmp><img:image/030779c_47.bmp><img:image/030779c_48.bmp><img:image/030779c_49.bmp><img:image/030779c_50.bmp><img:image/030779c_51.bmp><img:image/030779c_52.bmp><img:image/030779c_53.bmp><img:image/030779c_54.bmp><img:image/030779c_55.bmp><img:image/030779c_56.bmp>　燈亦可百二十燈千二百燈黄繒百二十¶
 　尺十二日十二夜災在西方則然七燈亦¶
 　可七十燈七百燈用白繒七尺七日七夜¶
 　災在北方則然五燈亦可五十燈五百燈¶
 　黑繒五十尺五日五夜此靈寳上元科法¶
 　　　保安欀災安鎭玉文¶
-　　　東方¶
-¶
+　　　東方¶¶
+
 　　　(東方九炁始)¶
-　　　(皇青天碧霞)¶
-<pb:KR5a0220_HFL_031-005b>¶
-　　　(鬱壘中有老)¶
-¶
+　　　(皇青天碧霞)¶<md:KR5a0220_HFL_031-005b>¶
+　　　(鬱壘中有老)¶¶
+
 　　　(人總校圖籙)¶
 　　　(攝炁奉仙)¶
 　　　南方¶
@@ -122,21 +119,20 @@
 　　　(皇上炎流煙)¶
 　　　(三炁勃光神)¶
 　　　(仙受命應會)¶
-　　　(太陽)¶
-<pb:KR5a0220_HFL_031-006a>¶
-　　　中央¶
+　　　(太陽)¶<md:KR5a0220_HFL_031-006a>¶
+<pb:KR5a0220_SJB_031-030780a>
+<img:image/030780a_1.bmp><img:image/030780a_2.bmp><img:image/030780a_3.bmp><img:image/030780a_4.bmp><img:image/030780a_5.bmp><img:image/030780a_6.bmp><img:image/030780a_7.bmp><img:image/030780a_8.bmp><img:image/030780a_9.bmp><img:image/030780a_10.bmp><img:image/030780a_11.bmp><img:image/030780a_12.bmp><img:image/030780a_13.bmp><img:image/030780a_14.bmp><img:image/030780a_15.bmp><img:image/030780a_16.bmp><img:image/030780a_17.bmp><img:image/030780a_18.bmp><img:image/030780a_19.bmp><img:image/030780a_20.bmp><img:image/030780a_21.bmp><img:image/030780a_22.bmp><img:image/030780a_23.bmp><img:image/030780a_24.bmp><img:image/030780a_25.bmp><img:image/030780a_26.bmp><img:image/030780a_27.bmp><img:image/030780a_28.bmp><img:image/030780a_29.bmp><img:image/030780a_30.bmp><img:image/030780a_31.bmp><img:image/030780a_32.bmp><img:image/030780a_33.bmp><img:image/030780a_34.bmp><img:image/030780a_35.bmp><img:image/030780a_36.bmp><img:image/030780a_37.bmp><img:image/030780a_38.bmp><img:image/030780a_39.bmp><img:image/030780a_40.bmp><img:image/030780a_41.bmp><img:image/030780a_42.bmp><img:image/030780a_43.bmp><img:image/030780a_44.bmp><img:image/030780a_45.bmp><img:image/030780a_46.bmp><img:image/030780a_47.bmp><img:image/030780a_48.bmp><img:image/030780a_49.bmp><img:image/030780a_50.bmp><img:image/030780a_51.bmp><img:image/030780a_52.bmp><img:image/030780a_53.bmp><img:image/030780a_54.bmp><img:image/030780a_55.bmp><img:image/030780a_56.bmp><img:image/030780a_57.bmp><img:image/030780a_58.bmp><img:image/030780a_59.bmp><img:image/030780a_60.bmp><img:image/030780a_61.bmp><img:image/030780a_62.bmp><img:image/030780a_63.bmp><img:image/030780a_64.bmp><img:image/030780a_65.bmp><img:image/030780a_66.bmp><img:image/030780a_67.bmp><img:image/030780a_68.bmp><img:image/030780a_69.bmp><img:image/030780a_70.bmp><img:image/030780a_71.bmp><img:image/030780a_72.bmp><img:image/030780a_73.bmp><img:image/030780a_74.bmp><img:image/030780a_75.bmp><img:image/030780a_76.bmp><img:image/030780a_77.bmp><img:image/030780a_78.bmp><img:image/030780a_79.bmp><img:image/030780a_80.bmp><img:image/030780a_81.bmp><img:image/030780a_82.bmp><img:image/030780a_83.bmp><img:image/030780a_84.bmp><img:image/030780a_85.bmp><img:image/030780a_86.bmp><img:image/030780a_87.bmp><img:image/030780a_88.bmp>　　　中央¶
 　　　(中央總靈黄)¶
 　　　(上天元始生)¶
 　　　(五老中皇高)¶
-　　　(尊攝炁監眞)¶
-¶
+　　　(尊攝炁監眞)¶¶
+
 　　　(總領群仙典)¶
 　　　(録玄圖宿簡)¶
 　　　(玉文催運上)¶
-　　　(炁普告萬神)¶
-<pb:KR5a0220_HFL_031-006b>¶
-　　　西方¶
-¶
+　　　(炁普告萬神)¶<md:KR5a0220_HFL_031-006b>¶
+　　　西方¶¶
+
 　　　(西方素天白)¶
 　　　(帝七門金靈)¶
 　　　(皓眏太華流)¶
@@ -146,9 +142,9 @@
 　　　(六神總領肺)¶
 　　　(炁主校九天)¶
 　　　(檢定圖録制)¶
-　　　(召上仙)¶
-<pb:KR5a0220_HFL_031-007a>¶
-　　　北方¶
+　　　(召上仙)¶<md:KR5a0220_HFL_031-007a>¶
+<pb:KR5a0220_SJB_031-030780b>
+<img:image/030780b_1.bmp><img:image/030780b_2.bmp><img:image/030780b_3.bmp><img:image/030780b_4.bmp><img:image/030780b_5.bmp><img:image/030780b_6.bmp><img:image/030780b_7.bmp><img:image/030780b_8.bmp><img:image/030780b_9.bmp><img:image/030780b_10.bmp><img:image/030780b_11.bmp><img:image/030780b_12.bmp><img:image/030780b_13.bmp><img:image/030780b_14.bmp><img:image/030780b_15.bmp><img:image/030780b_16.bmp><img:image/030780b_17.bmp><img:image/030780b_18.bmp><img:image/030780b_19.bmp><img:image/030780b_20.bmp><img:image/030780b_21.bmp><img:image/030780b_22.bmp><img:image/030780b_23.bmp><img:image/030780b_24.bmp><img:image/030780b_25.bmp><img:image/030780b_26.bmp><img:image/030780b_27.bmp><img:image/030780b_28.bmp><img:image/030780b_29.bmp><img:image/030780b_30.bmp><img:image/030780b_31.bmp><img:image/030780b_32.bmp><img:image/030780b_33.bmp><img:image/030780b_34.bmp><img:image/030780b_35.bmp><img:image/030780b_36.bmp><img:image/030780b_37.bmp><img:image/030780b_38.bmp><img:image/030780b_39.bmp><img:image/030780b_40.bmp>　　　北方¶
 　　　(北方玄天五)¶
 　　　(炁徘徊中有)¶
 　　　(黑帝雙皇太)¶
@@ -156,11 +152,10 @@
 　　　(仙煉八威青)¶
 　　　(裙羽䙱龍文)¶
 　　　(鳯衣上帝所)¶
-　　　(舉制到二階)¶
-¶
-<pb:KR5a0220_HFL_031-007b>¶
-　右依方色書白剌上記姓名月日如投簡¶
-¶
+　　　(舉制到二階)¶¶<md:KR5a0220_HFL_031-007b>¶
+
+　右依方色書白剌上記姓名月日如投簡¶¶
+
 　則九年五方仙官到使青腰赤陵黄素太¶
 　素太玄玉女來皆見叩齒十二通呪曰¶
 玄上高靈元始尊神大聖徘徊萬眞臨軒¶
@@ -170,9 +165,9 @@
 願度願生願神願仙天地星宿互照我身¶
 三官九府五帝大神普吿无窮削除罪根¶
 元始大開莫不納言九祖幽魂受福自然¶
-三塗五苦永離八難得與三景同輝紫宸¶
-<pb:KR5a0220_HFL_031-008a>¶
-輪轉不滅身得飛仙¶
+三塗五苦永離八難得與三景同輝紫宸¶<md:KR5a0220_HFL_031-008a>¶
+<pb:KR5a0220_SJB_031-030780c>
+<img:image/030780c_1.bmp><img:image/030780c_2.bmp><img:image/030780c_3.bmp><img:image/030780c_4.bmp><img:image/030780c_5.bmp><img:image/030780c_6.bmp><img:image/030780c_7.bmp><img:image/030780c_8.bmp><img:image/030780c_9.bmp><img:image/030780c_10.bmp><img:image/030780c_11.bmp><img:image/030780c_12.bmp><img:image/030780c_13.bmp><img:image/030780c_14.bmp><img:image/030780c_15.bmp><img:image/030780c_16.bmp><img:image/030780c_17.bmp><img:image/030780c_18.bmp><img:image/030780c_19.bmp><img:image/030780c_20.bmp><img:image/030780c_21.bmp><img:image/030780c_22.bmp><img:image/030780c_23.bmp><img:image/030780c_24.bmp><img:image/030780c_25.bmp><img:image/030780c_26.bmp><img:image/030780c_27.bmp><img:image/030780c_28.bmp><img:image/030780c_29.bmp><img:image/030780c_30.bmp><img:image/030780c_31.bmp><img:image/030780c_32.bmp><img:image/030780c_33.bmp><img:image/030780c_34.bmp><img:image/030780c_35.bmp><img:image/030780c_36.bmp><img:image/030780c_37.bmp><img:image/030780c_38.bmp><img:image/030780c_39.bmp><img:image/030780c_40.bmp><img:image/030780c_41.bmp><img:image/030780c_42.bmp><img:image/030780c_43.bmp><img:image/030780c_44.bmp><img:image/030780c_45.bmp><img:image/030780c_46.bmp><img:image/030780c_47.bmp><img:image/030780c_48.bmp><img:image/030780c_49.bmp><img:image/030780c_50.bmp><img:image/030780c_51.bmp><img:image/030780c_52.bmp>輪轉不滅身得飛仙¶
 　宣呪畢投剌絶岩名山之頂散華靈山之¶
 　上又叩齒三通面本命方再呪曰¶
 元始監映仙名巳書三官九府罪莫不除¶
@@ -181,21 +176,21 @@
 　　　東方¶
 　　　(東山神呪攝)¶
 　　　(召九天赤書)¶
-　　　(符命制會酆)¶
-<pb:KR5a0220_HFL_031-008b>¶
+　　　(符命制會酆)¶<md:KR5a0220_HFL_031-008b>¶
+
 　　　(山束魔送鬼)¶
 　　　(所誅无蠲悉)¶
 　　　(詣水宫敢有)¶
 　　　(稽)延(朱書/青上)¶
-　　　南方¶
-¶
+　　　南方¶¶
+
 　　　(北攝酆山東)¶
 　　　(送魔宗符教)¶
 　　　(所討明列罪)¶
 　　　(源南山神呪)¶
-　　　(威伏百方群)¶
-<pb:KR5a0220_HFL_031-009a>¶
-　　　(妖滅爽萬試)¶
+　　　(威伏百方群)¶<md:KR5a0220_HFL_031-009a>¶
+<pb:KR5a0220_SJB_031-030781a>
+<img:image/030781a_1.bmp><img:image/030781a_2.bmp><img:image/030781a_3.bmp><img:image/030781a_4.bmp><img:image/030781a_5.bmp><img:image/030781a_6.bmp><img:image/030781a_7.bmp><img:image/030781a_8.bmp><img:image/030781a_9.bmp><img:image/030781a_10.bmp><img:image/030781a_11.bmp><img:image/030781a_12.bmp><img:image/030781a_13.bmp><img:image/030781a_14.bmp><img:image/030781a_15.bmp><img:image/030781a_16.bmp><img:image/030781a_17.bmp><img:image/030781a_18.bmp><img:image/030781a_19.bmp><img:image/030781a_20.bmp><img:image/030781a_21.bmp><img:image/030781a_22.bmp><img:image/030781a_23.bmp><img:image/030781a_24.bmp><img:image/030781a_25.bmp><img:image/030781a_26.bmp><img:image/030781a_27.bmp><img:image/030781a_28.bmp><img:image/030781a_29.bmp><img:image/030781a_30.bmp><img:image/030781a_31.bmp><img:image/030781a_32.bmp><img:image/030781a_33.bmp><img:image/030781a_34.bmp><img:image/030781a_35.bmp><img:image/030781a_36.bmp><img:image/030781a_37.bmp><img:image/030781a_38.bmp><img:image/030781a_39.bmp><img:image/030781a_40.bmp><img:image/030781a_41.bmp><img:image/030781a_42.bmp><img:image/030781a_43.bmp><img:image/030781a_44.bmp><img:image/030781a_45.bmp><img:image/030781a_46.bmp><img:image/030781a_47.bmp><img:image/030781a_48.bmp><img:image/030781a_49.bmp><img:image/030781a_50.bmp><img:image/030781a_51.bmp><img:image/030781a_52.bmp><img:image/030781a_53.bmp><img:image/030781a_54.bmp><img:image/030781a_55.bmp><img:image/030781a_56.bmp><img:image/030781a_57.bmp><img:image/030781a_58.bmp><img:image/030781a_59.bmp><img:image/030781a_60.bmp><img:image/030781a_61.bmp><img:image/030781a_62.bmp><img:image/030781a_63.bmp>　　　(妖滅爽萬試)¶
 　　　(摧)七(黄書/赤上)¶
 　　　中央¶
 　　　(勑攝北帝遏)¶
@@ -204,8 +199,8 @@
 　　前(白書/黄上)¶
 　　　西方¶
 　　　(赤書玉字九)¶
-　　　(天正文攝召)¶
-<pb:KR5a0220_HFL_031-009b>¶
+　　　(天正文攝召)¶<md:KR5a0220_HFL_031-009b>¶
+
 　　　(萬炁普歸帝)¶
 　　　君(黑書/白上)¶
 　　　北方¶
@@ -215,9 +210,9 @@
 　　　(威北酆所部)¶
 　　　(萬妖滅)摧(青書/黒上)¶
 　兆面東北東九次南三次中央十二次西¶
-　七次北五次俱叩齒三十六通閉炁九口¶
-<pb:KR5a0220_HFL_031-010a>¶
-　而仰誦呪曰¶
+　七次北五次俱叩齒三十六通閉炁九口¶<md:KR5a0220_HFL_031-010a>¶
+<pb:KR5a0220_SJB_031-030781b>
+<img:image/030781b_1.bmp><img:image/030781b_2.bmp><img:image/030781b_3.bmp><img:image/030781b_4.bmp><img:image/030781b_5.bmp><img:image/030781b_6.bmp><img:image/030781b_7.bmp><img:image/030781b_8.bmp><img:image/030781b_9.bmp><img:image/030781b_10.bmp><img:image/030781b_11.bmp><img:image/030781b_12.bmp><img:image/030781b_13.bmp><img:image/030781b_14.bmp><img:image/030781b_15.bmp><img:image/030781b_16.bmp><img:image/030781b_17.bmp><img:image/030781b_18.bmp><img:image/030781b_19.bmp><img:image/030781b_20.bmp><img:image/030781b_21.bmp><img:image/030781b_22.bmp><img:image/030781b_23.bmp><img:image/030781b_24.bmp><img:image/030781b_25.bmp><img:image/030781b_26.bmp><img:image/030781b_27.bmp><img:image/030781b_28.bmp><img:image/030781b_29.bmp><img:image/030781b_30.bmp><img:image/030781b_31.bmp><img:image/030781b_32.bmp><img:image/030781b_33.bmp><img:image/030781b_34.bmp><img:image/030781b_35.bmp><img:image/030781b_36.bmp><img:image/030781b_37.bmp>　而仰誦呪曰¶
 三元開明回轉天常運推數終百六乘岡¶
 大劫交會萬妖爭行北都不拘放逸鬼宗¶
 群魔縱肆妖閉天光上帝有命普告十方¶
@@ -226,10 +221,10 @@
 北都三官速明傳行千魔束爽萬鬼送形¶
 流鈴交煥激炁太陽金虎四邀天丁輔亡¶
 大小齊到不得匿藏元始所告列奏上蒼¶
-止洪水度水災玉文¶
-<pb:KR5a0220_HFL_031-010b>¶
-　　　東方¶
-¶
+止洪水度水災玉文¶<md:KR5a0220_HFL_031-010b>¶
+
+　　　東方¶¶
+
 　　　(下制東河溟)¶
 　　　(海水神大劫)¶
 　　　(洪災蛟龍負)¶
@@ -238,21 +233,20 @@
 　　　(帝赤文風火)¶
 　　　(無)間(黄書/青上)¶
 　　　南方¶
-　　　(南河水帝太)¶
-<pb:KR5a0220_HFL_031-011a>¶
-　　　(伯龍王神呪)¶
+　　　(南河水帝太)¶<md:KR5a0220_HFL_031-011a>¶
+<pb:KR5a0220_SJB_031-030781c>
+<img:image/030781c_1.bmp><img:image/030781c_2.bmp><img:image/030781c_3.bmp><img:image/030781c_4.bmp><img:image/030781c_5.bmp><img:image/030781c_6.bmp><img:image/030781c_7.bmp><img:image/030781c_8.bmp><img:image/030781c_9.bmp><img:image/030781c_10.bmp><img:image/030781c_11.bmp><img:image/030781c_12.bmp><img:image/030781c_13.bmp><img:image/030781c_14.bmp><img:image/030781c_15.bmp><img:image/030781c_16.bmp><img:image/030781c_17.bmp><img:image/030781c_18.bmp><img:image/030781c_19.bmp><img:image/030781c_20.bmp><img:image/030781c_21.bmp><img:image/030781c_22.bmp><img:image/030781c_23.bmp><img:image/030781c_24.bmp><img:image/030781c_25.bmp><img:image/030781c_26.bmp><img:image/030781c_27.bmp><img:image/030781c_28.bmp><img:image/030781c_29.bmp><img:image/030781c_30.bmp><img:image/030781c_31.bmp><img:image/030781c_32.bmp><img:image/030781c_33.bmp><img:image/030781c_34.bmp><img:image/030781c_35.bmp><img:image/030781c_36.bmp><img:image/030781c_37.bmp><img:image/030781c_38.bmp><img:image/030781c_39.bmp><img:image/030781c_40.bmp><img:image/030781c_41.bmp><img:image/030781c_42.bmp><img:image/030781c_43.bmp><img:image/030781c_44.bmp><img:image/030781c_45.bmp><img:image/030781c_46.bmp><img:image/030781c_47.bmp><img:image/030781c_48.bmp><img:image/030781c_49.bmp><img:image/030781c_50.bmp><img:image/030781c_51.bmp><img:image/030781c_52.bmp><img:image/030781c_53.bmp><img:image/030781c_54.bmp><img:image/030781c_55.bmp><img:image/030781c_56.bmp><img:image/030781c_57.bmp><img:image/030781c_58.bmp><img:image/030781c_59.bmp><img:image/030781c_60.bmp><img:image/030781c_61.bmp><img:image/030781c_62.bmp><img:image/030781c_63.bmp><img:image/030781c_64.bmp><img:image/030781c_65.bmp><img:image/030781c_66.bmp><img:image/030781c_67.bmp><img:image/030781c_68.bmp><img:image/030781c_69.bmp><img:image/030781c_70.bmp><img:image/030781c_71.bmp><img:image/030781c_72.bmp><img:image/030781c_73.bmp><img:image/030781c_74.bmp><img:image/030781c_75.bmp><img:image/030781c_76.bmp><img:image/030781c_77.bmp><img:image/030781c_78.bmp><img:image/030781c_79.bmp><img:image/030781c_80.bmp><img:image/030781c_81.bmp><img:image/030781c_82.bmp><img:image/030781c_83.bmp><img:image/030781c_84.bmp><img:image/030781c_85.bmp><img:image/030781c_86.bmp><img:image/030781c_87.bmp><img:image/030781c_88.bmp><img:image/030781c_89.bmp><img:image/030781c_90.bmp><img:image/030781c_91.bmp>　　　(伯龍王神呪)¶
 　　　(流行普掃不)¶
 　　　(祥洪水飛災)¶
 　　　(止蛟召龍開)¶
-　　　(除水逕千道)¶
-¶
+　　　(除水逕千道)¶¶
+
 　　　(萬通敢有干)¶
 　　　(試攝送火宫)¶
 　　　(赤書所告莫)¶
-　　　(有不)從(黄書/青上)¶
-<pb:KR5a0220_HFL_031-011b>¶
-　　　中央¶
-¶
+　　　(有不)從(黄書/青上)¶<md:KR5a0220_HFL_031-011b>¶
+　　　中央¶¶
+
 　　　(中山神呪召)¶
 　　　(龍上雲制會)¶
 　　　(黄河九水河)¶
@@ -262,9 +256,9 @@
 　　　(帝君莫有干)¶
 　　　(試太陽激燌)¶
 　　　(赤書玉字宣)¶
-　　　(告普)聞(黄書/青上)¶
-<pb:KR5a0220_HFL_031-012a>¶
-　　　西方¶
+　　　(告普)聞(黄書/青上)¶<md:KR5a0220_HFL_031-012a>¶
+<pb:KR5a0220_SJB_031-030782a>
+<img:image/030782a_1.bmp><img:image/030782a_2.bmp><img:image/030782a_3.bmp><img:image/030782a_4.bmp><img:image/030782a_5.bmp><img:image/030782a_6.bmp><img:image/030782a_7.bmp><img:image/030782a_8.bmp><img:image/030782a_9.bmp><img:image/030782a_10.bmp><img:image/030782a_11.bmp><img:image/030782a_12.bmp><img:image/030782a_13.bmp><img:image/030782a_14.bmp><img:image/030782a_15.bmp><img:image/030782a_16.bmp><img:image/030782a_17.bmp><img:image/030782a_18.bmp><img:image/030782a_19.bmp><img:image/030782a_20.bmp><img:image/030782a_21.bmp><img:image/030782a_22.bmp><img:image/030782a_23.bmp><img:image/030782a_24.bmp><img:image/030782a_25.bmp><img:image/030782a_26.bmp><img:image/030782a_27.bmp><img:image/030782a_28.bmp><img:image/030782a_29.bmp><img:image/030782a_30.bmp><img:image/030782a_31.bmp><img:image/030782a_32.bmp><img:image/030782a_33.bmp><img:image/030782a_34.bmp><img:image/030782a_35.bmp><img:image/030782a_36.bmp><img:image/030782a_37.bmp><img:image/030782a_38.bmp><img:image/030782a_39.bmp><img:image/030782a_40.bmp><img:image/030782a_41.bmp><img:image/030782a_42.bmp><img:image/030782a_43.bmp><img:image/030782a_44.bmp><img:image/030782a_45.bmp><img:image/030782a_46.bmp><img:image/030782a_47.bmp><img:image/030782a_48.bmp><img:image/030782a_49.bmp><img:image/030782a_50.bmp><img:image/030782a_51.bmp><img:image/030782a_52.bmp><img:image/030782a_53.bmp><img:image/030782a_54.bmp><img:image/030782a_55.bmp><img:image/030782a_56.bmp><img:image/030782a_57.bmp><img:image/030782a_58.bmp><img:image/030782a_59.bmp><img:image/030782a_60.bmp><img:image/030782a_61.bmp><img:image/030782a_62.bmp><img:image/030782a_63.bmp><img:image/030782a_64.bmp><img:image/030782a_65.bmp><img:image/030782a_66.bmp><img:image/030782a_67.bmp><img:image/030782a_68.bmp><img:image/030782a_69.bmp><img:image/030782a_70.bmp><img:image/030782a_71.bmp><img:image/030782a_72.bmp>　　　西方¶
 　　　(西山神呪八)¶
 　　　(威七傳符水)¶
 　　　(上龍召山送)¶
@@ -273,20 +267,20 @@
 　　　(衞上眞斬滅)¶
 　　　(邪源若有不)¶
 　　　(祥截以金關)¶
-　　　(赤書符命風)¶
-<pb:KR5a0220_HFL_031-012b>¶
+　　　(赤書符命風)¶<md:KR5a0220_HFL_031-012b>¶
+
 　　　(火驛傳)(黄書/青上)¶
 　　　北方¶
 　　　(九河傾訖鳥)¶
 　　　(母群飛蛟龍)¶
-　　　(通道水陌洞)¶
-¶
+　　　(通道水陌洞)¶¶
+
 　　　(開赤文王書)¶
 　　　(驛龍風)馳(黄書/青上)¶
 道言天地大劫之災洪水四出蕩穢除惡萬¶
 无遺一當此之時天地冥合人民漂流无復¶
-善惡唯有至學之士得靈寳眞文大劫小劫¶
-<pb:KR5a0220_HFL_031-013a>¶
+善惡唯有至學之士得靈寳眞文大劫小劫¶<md:KR5a0220_HFL_031-013a>¶
+<pb:KR5a0220_SJB_031-030782b>
 之符乃可乘飛羽而髙觀登靈嶽而翔浮當¶
 此之時神自當使蛟龍爲通路開水徑以度¶
 身河伯司迎不待津梁乃明靈文之妙豈拘¶
@@ -296,8 +290,8 @@
 　頂而燒四方山林草木及巳身都盡形骸¶
 　皆成灰塵一時飛翔入青煙之上无所復¶
 　遺思大水浩蕩除天下巳身化成蛟龍隨¶
-　水而流又叩齒二十五通仰祝曰¶
-<pb:KR5a0220_HFL_031-013b>¶
+　水而流又叩齒二十五通仰祝曰¶<md:KR5a0220_HFL_031-013b>¶
+
 上始回靈開明九元天推地轉三炁流傅¶
 五行相促運度機關隂陽否激結成災衝¶
 大劫傾訖蕩除妖氛九河受對洪流激川¶
@@ -307,25 +301,26 @@
 是日告命萬神咸聞日月五星照明我魂¶
 五嶽靈山浮度我身九河水府溟靈大神¶
 開深水徑通利河津蛟龍應符攝山送雲¶
-負我度我驚馳四奔丹書赤字元始眞文¶
-<pb:KR5a0220_HFL_031-014a>¶
+負我度我驚馳四奔丹書赤字元始眞文¶<md:KR5a0220_HFL_031-014a>¶
+<pb:KR5a0220_SJB_031-030782c>
 金龍驛呈時刻无間立須奏御上對帝君¶
 　畢引炁二十五咽須臾自當有水神開道¶
 　以度兆之身在山則山浮在水則水開可¶
 　謂臨厄濟儵歘之頃也¶
-靈寳无量度人上經大法卷之三十一¶
-¶
-¶
-¶
-¶
-¶
-<pb:KR5a0220_HFL_031-014b>¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
+靈寳无量度人上經大法卷之三十一¶¶¶¶¶¶<md:KR5a0220_HFL_031-014b>¶¶¶¶¶¶¶¶¶¶
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

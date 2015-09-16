@@ -1,14 +1,12 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:41:04.048631
+# -*- mode: mandoku-view -*-
 #+TITLE: 靈寶無量度人上經大法
-#+PROPERTY: DZID  DZ0219
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，3—613 七十二卷 洞真部方法類
+#+DATE: 2015-08-28 23:42:24
+#+PROPERTY:  LASTPB <PB KR5a0220_SJB_072-031057a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
-#+PROPERTY: LASTPB <pb:KR5a0220_SJB_052-030906c>
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: LASTPB  <md:KR5a0220_HFL_051-020b>
 #+PROPERTY: JUAN 52
-#+PROPERTY: ID KR5a0220
-<pb:KR5a0220_HFL_052-001a>¶
+<md:KR5a0220_HFL_052-001a>¶<pb:KR5a0220_SJB_052-030907a><img:image/030907a_1.bmp><img:image/030907a_2.bmp><img:image/030907a_3.bmp><img:image/030907a_4.bmp><img:image/030907a_5.bmp><img:image/030907a_6.bmp><img:image/030907a_7.bmp><img:image/030907a_8.bmp><img:image/030907a_9.bmp><img:image/030907a_10.bmp><img:image/030907a_11.bmp>
 靈寳无量度人上經大法卷之五十二¶
 　超度靈幡品¶
 　皇人曰夫超度之格皆頼真師三田之炁¶
@@ -18,42 +16,42 @@
 　覩光明深可憫之故立超度之章令學仙¶
 　之士遵而行之則濟死度生之事畢矣¶
 　　　立遷神廻黄二幡¶
-　此幡須按亡人年幾長短尺寸造之一黄¶
-<pb:KR5a0220_HFL_052-001b>¶
+　此幡須按亡人年幾長短尺寸造之一黄¶<md:KR5a0220_HFL_052-001b>¶
+
 　一紅以按日月光明之象上書三天隠諱¶
 　中書九天生神天篆呪章標於壇外以開¶
 　長夜之光¶
-　　　遷神幡首¶
-¶
-¶
+　　　遷神幡首¶¶¶
+
+
 　　　幡身書¶
 　　　(慈悲化主九)¶
 　　　(幽拔罪天尊)¶
-　　　幡手書¶
-<pb:KR5a0220_HFL_052-002a>¶
-　　　(符命通溟漠)¶
+　　　幡手書¶<md:KR5a0220_HFL_052-002a>¶
+<pb:KR5a0220_SJB_052-030907b>
+<img:image/030907b_1.bmp><img:image/030907b_2.bmp><img:image/030907b_3.bmp><img:image/030907b_4.bmp><img:image/030907b_5.bmp><img:image/030907b_6.bmp><img:image/030907b_7.bmp><img:image/030907b_8.bmp><img:image/030907b_9.bmp><img:image/030907b_10.bmp><img:image/030907b_11.bmp><img:image/030907b_12.bmp><img:image/030907b_13.bmp><img:image/030907b_14.bmp><img:image/030907b_15.bmp><img:image/030907b_16.bmp><img:image/030907b_17.bmp><img:image/030907b_18.bmp><img:image/030907b_19.bmp><img:image/030907b_20.bmp><img:image/030907b_21.bmp><img:image/030907b_22.bmp><img:image/030907b_23.bmp><img:image/030907b_24.bmp><img:image/030907b_25.bmp><img:image/030907b_26.bmp><img:image/030907b_27.bmp><img:image/030907b_28.bmp><img:image/030907b_29.bmp><img:image/030907b_30.bmp><img:image/030907b_31.bmp><img:image/030907b_32.bmp><img:image/030907b_33.bmp><img:image/030907b_34.bmp><img:image/030907b_35.bmp><img:image/030907b_36.bmp><img:image/030907b_37.bmp><img:image/030907b_38.bmp><img:image/030907b_39.bmp><img:image/030907b_40.bmp><img:image/030907b_41.bmp><img:image/030907b_42.bmp><img:image/030907b_43.bmp><img:image/030907b_44.bmp><img:image/030907b_45.bmp><img:image/030907b_46.bmp><img:image/030907b_47.bmp><img:image/030907b_48.bmp><img:image/030907b_49.bmp><img:image/030907b_50.bmp><img:image/030907b_51.bmp><img:image/030907b_52.bmp><img:image/030907b_53.bmp>　　　(符命通溟漠)¶
 　　　(靈旛颺曉風)¶
 　　　(遷神超北府)¶
 　　　(飛舄上南宫)¶
-　　　廻黄幡首¶
-¶
-¶
+　　　廻黄幡首¶¶¶
+
+
 　　　幡身書¶
 　　　(慈悲化主寳)¶
-　　　(憧接引天尊)¶
-<pb:KR5a0220_HFL_052-002b>¶
+　　　(憧接引天尊)¶<md:KR5a0220_HFL_052-002b>¶
+
 　　　幡手書¶
 　　　(太微回黄旗)¶
 　　　(无英命靈幡)¶
 　　　(攝召長夜府)¶
 　　　(開度受生䰟)¶
-　　　開道幡首書上帝諱¶
-¶
-¶
-　　　幡身書六甲使者持幡開道¶
-¶
-<pb:KR5a0220_HFL_052-003a>¶
-　　　幡手書空洞通幽呪¶
+　　　開道幡首書上帝諱¶¶¶
+
+
+　　　幡身書六甲使者持幡開道¶¶<md:KR5a0220_HFL_052-003a>¶
+
+<pb:KR5a0220_SJB_052-030907c>
+<img:image/030907c_1.bmp><img:image/030907c_2.bmp><img:image/030907c_3.bmp><img:image/030907c_4.bmp><img:image/030907c_5.bmp><img:image/030907c_6.bmp><img:image/030907c_7.bmp><img:image/030907c_8.bmp><img:image/030907c_9.bmp><img:image/030907c_10.bmp><img:image/030907c_11.bmp><img:image/030907c_12.bmp><img:image/030907c_13.bmp><img:image/030907c_14.bmp><img:image/030907c_15.bmp><img:image/030907c_16.bmp><img:image/030907c_17.bmp><img:image/030907c_18.bmp><img:image/030907c_19.bmp><img:image/030907c_20.bmp><img:image/030907c_21.bmp><img:image/030907c_22.bmp><img:image/030907c_23.bmp><img:image/030907c_24.bmp><img:image/030907c_25.bmp><img:image/030907c_26.bmp><img:image/030907c_27.bmp><img:image/030907c_28.bmp><img:image/030907c_29.bmp><img:image/030907c_30.bmp><img:image/030907c_31.bmp><img:image/030907c_32.bmp><img:image/030907c_33.bmp><img:image/030907c_34.bmp><img:image/030907c_35.bmp><img:image/030907c_36.bmp><img:image/030907c_37.bmp><img:image/030907c_38.bmp><img:image/030907c_39.bmp><img:image/030907c_40.bmp><img:image/030907c_41.bmp><img:image/030907c_42.bmp><img:image/030907c_43.bmp><img:image/030907c_44.bmp><img:image/030907c_45.bmp><img:image/030907c_46.bmp><img:image/030907c_47.bmp><img:image/030907c_48.bmp><img:image/030907c_49.bmp><img:image/030907c_50.bmp><img:image/030907c_51.bmp><img:image/030907c_52.bmp><img:image/030907c_53.bmp><img:image/030907c_54.bmp><img:image/030907c_55.bmp>　　　幡手書空洞通幽呪¶
 　　　(靈音振空洞)¶
 　　　(九玄離幽裔)¶
 　　　(感賞无凝滯)¶
@@ -62,8 +60,8 @@
 　　　(妙哉怡五靈)¶
 　　　(金書警萬神)¶
 　　　(察命定録籍)¶
-　　　(靈符度苦魂)¶
-<pb:KR5a0220_HFL_052-003b>¶
+　　　(靈符度苦魂)¶<md:KR5a0220_HFL_052-003b>¶
+
 　　　度橋陽暉幡¶
 　用黄絹作幡一首長二丈四尺幡首書北¶
 　斗七星幡身書太一天尊叡號左手畫日¶
@@ -74,9 +72,9 @@
 　　　(明哉太陽輝)¶
 　　　(神光洞三清)¶
 　　　(炁散玄漢内)¶
-　　　　　水十一十九¶
-<pb:KR5a0220_HFL_052-004a>¶
-　　　(靈烟生紫庭)¶
+　　　　　水十一十九¶<md:KR5a0220_HFL_052-004a>¶
+<pb:KR5a0220_SJB_052-030908a>
+<img:image/030908a_1.bmp><img:image/030908a_2.bmp><img:image/030908a_3.bmp><img:image/030908a_4.bmp><img:image/030908a_5.bmp><img:image/030908a_6.bmp><img:image/030908a_7.bmp><img:image/030908a_8.bmp><img:image/030908a_9.bmp><img:image/030908a_10.bmp><img:image/030908a_11.bmp><img:image/030908a_12.bmp><img:image/030908a_13.bmp><img:image/030908a_14.bmp><img:image/030908a_15.bmp><img:image/030908a_16.bmp><img:image/030908a_17.bmp><img:image/030908a_18.bmp><img:image/030908a_19.bmp><img:image/030908a_20.bmp><img:image/030908a_21.bmp><img:image/030908a_22.bmp><img:image/030908a_23.bmp><img:image/030908a_24.bmp><img:image/030908a_25.bmp><img:image/030908a_26.bmp><img:image/030908a_27.bmp><img:image/030908a_28.bmp><img:image/030908a_29.bmp><img:image/030908a_30.bmp><img:image/030908a_31.bmp>　　　(靈烟生紫庭)¶
 　　　(飄飄淩无形)¶
 　　　返根呪¶
 　　　(明梵飛玄景)¶
@@ -85,19 +83,19 @@
 　　　(炁炁返故根)¶
 　　　幡身書金闕梵行真人玉字¶
 東極宫中大慈仁者尋聲赴感太一救苦天¶
-尊¶
-<pb:KR5a0220_HFL_052-004b>¶
-¶
-¶
-¶
+尊¶<md:KR5a0220_HFL_052-004b>¶¶¶¶
+
+
+
+
 　　　道場内諸幡聖號¶
 引魂明光之幡接𩲸洞照之幡霞光朗耀之¶
 幡威靈拔度之幡垂光慈蔭之幡玉皇赦罪¶
 之幡梵炁彌綸之幡明霞通智之幡法燈朗¶
 照之幡慧光流光之幡玄明真定之幡靈耀¶
 八景之幡金英護魂之幡洞鍳幽明之幡流¶
-鍳照幽之幡五劫開化之幡通光普照之幡¶
-<pb:KR5a0220_HFL_052-005a>¶
+鍳照幽之幡五劫開化之幡通光普照之幡¶<md:KR5a0220_HFL_052-005a>¶
+<pb:KR5a0220_SJB_052-030908b>
 混化變生之幡靈光皓映之幡垂光流照之¶
 幡神光廣被之幡度明玉簡之幡滅光速感¶
 之幡龍威梵度之幡¶
@@ -107,8 +105,8 @@
 三光煉度天尊大光廣照天尊重光返照天¶
 尊寳光虚靖天尊流光梵現天尊三光耀明¶
 天尊光道致人天尊金光玉華天尊慈光普¶
-施天尊¶
-<pb:KR5a0220_HFL_052-005b>¶
+施天尊¶<md:KR5a0220_HFL_052-005b>¶
+
 　　靈寳懸幡科¶
 　　　啓聖¶
 伏以玉藏真文立種拔亡之式瓊科妙旨乃¶
@@ -118,9 +116,9 @@
 繼宣救無鞅之苦爽諸天齊到萬聖臨軒光¶
 映十方功皈三寳¶
 　　　次念靈幡赦罪天尊¶
-　　祥雲結就命靈幡影落浮空散世間¶
-<pb:KR5a0220_HFL_052-006a>¶
-　縹緲凌風纔一舉舍靈俱得脫幽關¶
+　　祥雲結就命靈幡影落浮空散世間¶<md:KR5a0220_HFL_052-006a>¶
+<pb:KR5a0220_SJB_052-030908c>
+<img:image/030908c_1.bmp>　縹緲凌風纔一舉舍靈俱得脫幽關¶
 今則謹遵大法特建寳齋幡開昏迷接群生¶
 之俓路符通溟漠按太極之真儀降三景之¶
 輝敷至真之道既立一竿之上巳經萬目之¶
@@ -129,38 +127,39 @@
 　　　次念寳幢接引天尊¶
 　仙真慈惠極含靈髙舉華幡振杳冥¶
 　咸使遷神歸碧落福資寰海保昇平¶
-向來稱揚法事建立寳幡按明真玉匱之文¶
-<pb:KR5a0220_HFL_052-006b>¶
+向來稱揚法事建立寳幡按明真玉匱之文¶<md:KR5a0220_HFL_052-006b>¶
+
 乃度死濟生之式憑兹上善廣利无邊資助¶
 神魂超昇仙界伏願群仙接引速超清淨之¶
 郷衆善矜憐俓上南官之府福霑幽顯惠及¶
 含生一切有情俱登道岸¶
-　　　保安遷神幡¶
-¶
-¶
-¶
-¶
-¶
-　　　保安廻黄幡¶
-<pb:KR5a0220_HFL_052-007a>¶
-¶
-¶
-¶
-靈寳无量度人上經大法卷之五十二¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:KR5a0220_HFL_052-007b>¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
+　　　保安遷神幡¶¶¶¶¶¶
+
+
+
+
+
+　　　保安廻黄幡¶<md:KR5a0220_HFL_052-007a>¶¶¶¶
+<pb:KR5a0220_SJB_052-030909a>
+<img:image/030909a_1.bmp>
+
+
+靈寳无量度人上經大法卷之五十二¶¶¶¶¶¶¶<md:KR5a0220_HFL_052-007b>¶¶¶¶¶¶¶¶¶¶¶
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
